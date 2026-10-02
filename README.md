@@ -1,10 +1,9 @@
 # Prompt Image Search
 
-Prompt Image Search is a desktop application that uses OpenAI Clip to find images semantically similar to natural-language descriptions.  
-Prompt Image Search searches for images based on a text prompt for their visual content, instead of a filename or metadata, and returns the top-10 results.  
+OpenAI Clip is used to sort images based on a text prompt for their visual content, not filenames or metadata, returning the top-10 results.  
 Results are ranked by cosine similarity and can be clicked to open directly into Windows Explorer.  
-A major use case is locating specific photos in massive, poorly named collections by simply describing the scene, such as typing "a dog running on a beach".  
-It is useful for those who need to quickly sort through screenshots, or other photos, by searching for visual content, instead of metadata.  
+A major use case is locating specific photos in massive, poorly named collections by simply describing the scene with a prompt.  
+It is useful for those who need to quickly sort through screenshots, or other photos, by searching with visual content in mind.  
 
 ## Requirements
 
